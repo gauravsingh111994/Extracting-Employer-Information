@@ -12,8 +12,7 @@ Steps to run the webapp :
 		email id, employee strength, industry category, revenue, profit, number of opening on naukri.
 		
 Source of error :
-	- Added phantomjs(for windows) along the webapp but in case code is not able read the location of phantomjs
-	just change the location in config.ini file to the exact location of phantomjs.exe
+	- Added phantomjs(for windows) along the webapp but in case code is not able read the location of phantomjs just change the location in config.ini file to the exact location of phantomjs.exe
 	- If error comes as 'Import error: module not found' just use pip command for installing that modules as :
 		'pip install package_name'
 	- If frequent search is made there is a possibility that linkedin may block the bot for certain period of time.
